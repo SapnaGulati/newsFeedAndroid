@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">dumy_app</string>
+    <string name="appTitle">Profile</string>
+    <string name="tabStoryText">Stories</string>
+    <string name="tabFollowerText">Followers</string>
+    <string name="tabFollowingText">Following</string>
+    <string name="activity_label">Profile</string>
+</resources>
