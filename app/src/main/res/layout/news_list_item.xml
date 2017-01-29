@@ -5,6 +5,7 @@
     android:layout_height="@dimen/listCardHeight"
     android:background="@color/whiteColor"
     card_view:cardUseCompatPadding="false"
+    android:padding="@dimen/margin_2dp"
     card_view:cardMaxElevation="@dimen/margin_2dp"
     card_view:cardElevation="@dimen/margin_2dp">
 

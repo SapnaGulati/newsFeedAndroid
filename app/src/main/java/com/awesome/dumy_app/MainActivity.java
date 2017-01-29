@@ -81,6 +81,7 @@ public class MainActivity extends AppCompatActivity {
         mProfile.appendFeed(new FeedStore(R.mipmap.jdpp, "My trip to Italy", "I just returned from Itly, I amnlkshjksajbn ksja  hljsk js us huk jhs hs gcks  us ks a u cjkhs kjh s"));
         mProfile.appendFeed(new FeedStore(R.mipmap.download, "My trip to Italy", "I just returned from Itly, I amnlkshjksajbn ksja  hljsk js us huk jhs hs gcks  us ks a u cjkhs kjh s"));
         mProfile.appendFeed(new FeedStore(R.mipmap.download, "My trip to Italy", "I just returned from Itly, I amnlkshjksajbn ksja  hljsk js us huk jhs hs gcks  us ks a u cjkhs kjh s"));
+
     }
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
