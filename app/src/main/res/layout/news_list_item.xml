@@ -5,7 +5,7 @@
     android:layout_height="@dimen/listCardHeight"
     android:background="@color/whiteColor"
     card_view:cardUseCompatPadding="false"
-    android:padding="@dimen/margin_2dp"
+    android:padding="@dimen/margin_4dp"
     card_view:cardMaxElevation="@dimen/margin_2dp"
     card_view:cardElevation="@dimen/margin_2dp">
 
@@ -48,7 +48,7 @@
                 android:text="I just returned from Itly, I amnlkshjksajbn ksja  hljsk js us huk jhs hs gcks  us ks a u cjkhs kjh s"
                 android:textColor="@color/lightGreyText"
                 android:maxLines="2"
-                android:layout_marginTop="@dimen/margin_2dp"
+                android:layout_marginTop="@dimen/padding_6dp"
                 android:textSize="@dimen/textSize_12sp"
                 android:alpha="0.5"
                 android:fontFamily="sans-serif" />
